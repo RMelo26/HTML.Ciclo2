@@ -1,0 +1,29 @@
+.hmenu ul {
+  list-style: nome;
+  padding: 0px;
+}
+
+.henu ul li {
+  display: inline;
+}
+
+.hmenu ul li {
+  color: #5f5a5a;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding: 20px;
+  display: inline-block;
+}
+
+.hmenu ul li a:hover {
+  background-color: #fff;
+  color: rgb(255, 0, 0);
+  text-decoration-line: underline;
+  text-decoration-color: azure;
+  text-decoration-style: wavy;
+}
+
+.hmenu ul li a:visited {
+  color: rgb(255, 251, 7);
+  font-family: fantasy;
+}
