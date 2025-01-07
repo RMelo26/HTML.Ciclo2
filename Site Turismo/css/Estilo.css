@@ -1,0 +1,37 @@
+#menu_nav {
+  width: 100%;
+  height: 10vh;
+  position: fixed;
+  margin-top: -3vh;
+}
+
+body {
+  background: rgb(247, 247, 255);
+  background: linear-gradient(
+    171deg,
+    rgba(247, 247, 255, 1) 0%,
+    rgba(170, 176, 192, 1) 100%
+  );
+}
+
+#banner {
+  background-color: rgb(38, 173, 226);
+  width: 100%;
+  height: 40vh;
+  margin-top: 8vh;
+}
+
+.colecao_cards{
+    width: 100%;
+    padding: 2vh;
+    display: flex;
+    flex-direction: row;
+}
+
+.card_estilo{
+    margin: auto;
+    width: 60vh;
+    height: 60vh;
+    background-color: aquamarine;
+}
+
